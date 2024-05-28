@@ -1,1 +1,2 @@
 this file is created in branch b1
+modify file to test conflicts
