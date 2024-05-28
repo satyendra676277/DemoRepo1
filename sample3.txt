@@ -1,1 +1,2 @@
 this file is created in branch b1
+this is modified file in master branch , to test conflict
